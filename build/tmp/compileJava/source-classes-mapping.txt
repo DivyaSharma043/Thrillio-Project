@@ -1,0 +1,56 @@
+com/semanticsquare/thrillio/constants/KidFriendlyStatus.java
+ com.semanticsquare.thrillio.constants.KidFriendlyStatus
+com/semanticsquare/thrillio/entities/package-info.java
+ com.semanticsquare.thrillio.entities.package-info
+com/semanticsquare/thrillio/constants/Gender.java
+ com.semanticsquare.thrillio.constants.Gender
+com/semanticsqaure/thrillio/managers/package-info.java
+ com.semanticsqaure.thrillio.managers.package-info
+com/semanticsquare/thrillio/dao/package-info.java
+ com.semanticsquare.thrillio.dao.package-info
+com/semanticsquare/thrillio/constants/UserType.java
+ com.semanticsquare.thrillio.constants.UserType
+com/semanticsquare/thrillio/package-info.java
+ com.semanticsquare.thrillio.package-info
+com/semanticsquare/thrillio/dao/UserDao.java
+ com.semanticsquare.thrillio.dao.UserDao
+com/semanticsquare/thrillio/constants/BookGenre.java
+ com.semanticsquare.thrillio.constants.BookGenre
+com/semanticsquare/thrillio/constants/package-info.java
+ com.semanticsquare.thrillio.constants.package-info
+com/semanticsquare/thrillio/partner/Shareable.java
+ com.semanticsquare.thrillio.partner.Shareable
+thrillio/Main.java
+ thrillio.Main
+com/semanticsquare/thrillio/entities/User.java
+ com.semanticsquare.thrillio.entities.User
+com/semanticsquare/thrillio/partner/package-info.java
+ com.semanticsquare.thrillio.partner.package-info
+com/semanticsqaure/thrillio/managers/UserManager.java
+ com.semanticsqaure.thrillio.managers.UserManager
+com/semanticsquare/thrillio/constants/MovieGenre.java
+ com.semanticsquare.thrillio.constants.MovieGenre
+com/semanticsquare/thrillio/controllers/package-info.java
+ com.semanticsquare.thrillio.controllers.package-info
+com/semanticsquare/thrillio/DataStore.java
+ com.semanticsquare.thrillio.DataStore
+com/semanticsquare/thrillio/entities/Movie.java
+ com.semanticsquare.thrillio.entities.Movie
+com/semanticsquare/thrillio/entities/Bookmark.java
+ com.semanticsquare.thrillio.entities.Bookmark
+com/semanticsquare/thrillio/View.java
+ com.semanticsquare.thrillio.View
+com/semanticsquare/thrillio/entities/WebLink.java
+ com.semanticsquare.thrillio.entities.WebLink
+com/semanticsquare/thrillio/Launch.java
+ com.semanticsquare.thrillio.Launch
+com/semanticsquare/thrillio/dao/BookmarkDao.java
+ com.semanticsquare.thrillio.dao.BookmarkDao
+com/semanticsquare/thrillio/entities/UserBookmark.java
+ com.semanticsquare.thrillio.entities.UserBookmark
+com/semanticsquare/thrillio/entities/Book.java
+ com.semanticsquare.thrillio.entities.Book
+com/semanticsquare/thrillio/controllers/BookmarkController.java
+ com.semanticsquare.thrillio.controllers.BookmarkController
+com/semanticsqaure/thrillio/managers/BookmarkManager.java
+ com.semanticsqaure.thrillio.managers.BookmarkManager
